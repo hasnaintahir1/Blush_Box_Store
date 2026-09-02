@@ -1,0 +1,6 @@
+{
+  "name": "Blush Box - Luxury Gifting & Curated Hampers",
+  "description": "A high-end luxury gifting e-commerce platform with curated hampers, bespoke monogramming, luxury unboxing experiences, and seamless order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
